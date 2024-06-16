@@ -1,6 +1,9 @@
 {
-    "lib": "8d108e8996c3653d6c313f4a227b12c9831086d46874d6d9bb6887c5d86a980c",
-    "python3.dll": "5146005c36455e7ede4b8ecc0dc6f6fa8ea6b4a99fedbabc1994ae27dfab9d1b",
-    "python312.dll": "21700f0bad5769a1b61ea408dc0a140ffd0a356a774c6eb0cc70e574b929d2e2",
-    "TheScotts.exe": "ba178297062aa2f7cd38bf32bbe564affcdf9e7fa7904a262fcc63a10e6860f6"
+    "version": "1.0",
+    "hashes": {
+        "lib": "8d108e8996c3653d6c313f4a227b12c9831086d46874d6d9bb6887c5d86a980c",
+        "python3.dll": "5146005c36455e7ede4b8ecc0dc6f6fa8ea6b4a99fedbabc1994ae27dfab9d1b",
+        "python312.dll": "21700f0bad5769a1b61ea408dc0a140ffd0a356a774c6eb0cc70e574b929d2e2",
+        "TheScotts.exe": "ba178297062aa2f7cd38bf32bbe564affcdf9e7fa7904a262fcc63a10e6860f6"
+    }
 }
